@@ -1,0 +1,3 @@
+[submodule "openssl"]
+	path = resource
+	url = git@github.com:Lauyinx/openssl.git
